@@ -1,6 +1,10 @@
 # Power-BI-Sales-Dashboard
 
-Step-wise description to create a visual repersentation of sales dashboard in Power BI
+This is the superstore.csv file from the Kaggle dataset store.
+
+A screenshot of the visual dashboard created in Power BI is attached to this repository.
+
+A step-wise, summarized description to create a visual representation of the sales dashboard in Power BI is given below--
 
 1. Import and Clean Data:
 -Load data from Excel/CSV.
